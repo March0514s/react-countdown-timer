@@ -1,0 +1,10 @@
+{
+    "roots": [
+      "<rootDir>/src"
+    ],
+    "moduleFileExtensions": ["js", "jsx", "json", "node"],
+    "moduleNameMapper": {
+        "^.+\\.(css|less|scss)$": "babel-jest",
+        "^.+\\.(jpg|png|gif|svg)$": "identity-obj-proxy"
+      }
+  }
